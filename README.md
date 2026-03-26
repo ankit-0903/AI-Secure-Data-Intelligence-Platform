@@ -1,6 +1,6 @@
-# SISA-1: Heuristic Security Data Intelligence Platform 🛡️🚀
+# AI Secure Data Intelligence Platform (AI-SDIP) 🛡️🚀
 
-**SISA-1** is a high-performance, enterprise-grade security workstation designed for the modern developer. It utilizes deterministic rule-based detection and advanced heuristic mapping to provide a unified threat-analysis experience.
+**AI-SDIP** is a high-performance, enterprise-grade security workstation designed for the modern developer. It utilizes deterministic rule-based detection and advanced heuristic mapping to provide a unified threat-analysis experience.
 
 ---
 
@@ -52,8 +52,3 @@ A sample security dump is provided in **`app.log`**. Upload this file via the da
 - Heuristic-generated remediation insight summaries.
 
 ---
-
-## ⚖️ Hackathon Notes
-SISA-1 is designed for **privacy-first security analysis**. All processing happens entirely within the local environment, ensuring sensitive log data never leaves your infrastructure.
-
-**Project Contributors: Your Team Name 🛡️✨**

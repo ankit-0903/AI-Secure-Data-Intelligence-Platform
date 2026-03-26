@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from models.schemas import AnalysisRequest, AnalysisResponse
 from modules.engine import AnalysisEngine
 
-app = FastAPI(title="AI Secure Data Intelligence Platform")
+app = FastAPI(title="AI Secure Data Intelligence Platform (AI-SDIP)")
 
 # Configure CORS
 app.add_middleware(
