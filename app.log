@@ -1,0 +1,8 @@
+2026-03-10 10:00:01 INFO User login attempt
+email=admin@company.com
+password=admin123
+api_key=sk-DEMO-XXXXXXXX-XXXXXXXX
+ERROR stack trace: NullPointerException at service.java:45
+2026-03-10 10:05:22 WARNING Suspicious IP detected: 127.0.0.1
+2026-03-10 10:10:00 INFO Connection from +15550192837
+2026-03-10 10:15:00 CRITICAL auth_token: glpat-DEMO-XXXXXXXX-XXXXXXXX
